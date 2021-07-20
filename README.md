@@ -1,2 +1,2 @@
 # EODOPEN_doku
-Documentation for EOD OPEN maintanace. See Wiki.
+Documentation for EOD OPEN maintenace. See Wiki.
